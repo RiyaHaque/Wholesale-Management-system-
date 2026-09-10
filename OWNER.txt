@@ -1,0 +1,40 @@
+USER: OWNER
+
+FEATURES:
+
+1. Login
+- Log in using email/phone and password.
+- Access the Owner Dashboard after successful login.
+- Show an error for invalid login.
+
+2. Profile Management
+- View and update the Owner profile.
+- Save profile changes.
+
+3. Sales Reports
+- View sales reports.
+- Select a specific time range.
+- View sales information accurately.
+
+4. Inventory Reports
+- View inventory reports.
+- Check real-time stock information.
+- Use inventory information for business decisions.
+
+5. Owner Dashboard
+- View the Business Analytics Dashboard.
+- View business insights.
+- View charts and statistics.
+
+6. Supplier Management
+- Add supplier information.
+- Update supplier information.
+- Maintain supplier details for product sourcing.
+
+7. User Roles and Permissions
+- Manage user roles and permissions together with Admin.
+- Assign roles such as Retailer, Shop Manager, and Delivery Man.
+- Control system access.
+
+IMPORTANT:
+The report mainly assigns reporting, business monitoring, supplier management, and user-role management to the Owner.

@@ -1,0 +1,40 @@
+USER: RETAILER
+
+FEATURES:
+
+1. Login
+- Log in using email/phone and password.
+- Access the Retailer Dashboard after successful login.
+- Show an error for invalid login.
+
+2. Profile Management
+- View and update the Retailer profile.
+- Save profile changes.
+
+3. Browse Products
+- View available shoe products.
+- View product information.
+- Browse the product catalog.
+
+4. Filter Products
+- Filter products by category.
+- Filter products by size.
+- Filter products by brand.
+
+5. Select Products
+- Select products for purchase or order.
+
+6. Create Order
+- Create a wholesale or retail order.
+- Select products and quantities.
+- Save the order successfully.
+- Stock should be reduced after a successful order.
+
+7. Track Order
+- View current order status.
+- View expected delivery time.
+- Track the progress of the order.
+
+8. Order Notifications
+- Receive notifications about order status updates.
+- Stay informed about the order.

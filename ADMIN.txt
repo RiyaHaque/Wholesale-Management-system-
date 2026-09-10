@@ -1,0 +1,64 @@
+USER: ADMIN
+
+FEATURES:
+
+1. Login
+- Log in using email/phone and password.
+- Access the Admin Dashboard after successful login.
+- Show an error for invalid login.
+
+2. Role Management
+- Manage user roles and permissions.
+- Assign roles such as Retailer, Shop Manager, and Delivery Man.
+- Control which features each user can access.
+
+3. Profile Management
+- View and update the Admin profile.
+- Save profile changes.
+
+4. Product Management
+- Add new shoe products.
+- Update product information.
+- Product information includes name, brand, size, category, price, and stock quantity.
+
+5. Customer Management
+- Add and store customer information.
+- View customer details when needed.
+
+6. Invoice Generation
+- Generate invoices.
+- Calculate the correct total, tax, and discount.
+- Store the generated invoice.
+
+7. Payment Management
+- Update payment status.
+- Record payment information correctly.
+
+8. Delivery Assignment
+- Assign orders to Delivery Men.
+- Make sure the correct orders are assigned.
+
+9. Inventory Report
+- View inventory reports.
+- Check stock quantities.
+- Filter inventory information when required.
+
+10. Activity Logs
+- View system activity logs.
+- Keep records of important system activities.
+
+11. Admin Dashboard
+- View important system information.
+- View real-time statistics.
+
+12. Supplier Management
+- Add supplier information.
+- Update supplier information.
+- Store supplier name, contact, and address.
+
+13. Purchase Approval
+- Review purchase requests.
+- Approve purchases before stock is updated.
+
+IMPORTANT:
+Admin has access to administrative features according to the role-based access control system.
