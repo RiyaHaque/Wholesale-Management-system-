@@ -1,0 +1,35 @@
+USER: DELIVERY MAN
+
+FEATURES:
+
+1. Login
+- Log in using email/phone and password.
+- Access the Delivery Dashboard after successful login.
+- Show an error for invalid login.
+
+2. Profile Management
+- View and update the Delivery Man profile.
+- Save profile changes.
+
+3. View Assigned Deliveries
+- View orders assigned for delivery.
+- View order details.
+- View customer address and contact information.
+- Only assigned orders should be visible.
+
+4. Update Delivery Status
+- Update the status of assigned deliveries.
+- Available statuses:
+  - Delivered
+  - Pending
+  - Failed
+- The status should update in real time.
+
+5. Delivery Notifications
+- Receive notifications about new delivery assignments.
+- View delivery-related updates.
+
+ACCESS RESTRICTION:
+- Delivery Man cannot edit product details.
+- Delivery Man cannot access Admin features.
+- The system should block actions that the Delivery Man does not have permission to use.

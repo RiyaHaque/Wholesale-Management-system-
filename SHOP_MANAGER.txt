@@ -1,0 +1,52 @@
+USER: SHOP MANAGER
+
+FEATURES:
+
+1. Login
+- Log in using email/phone and password.
+- Access the Shop Manager Dashboard after successful login.
+- Show an error for invalid login.
+
+2. Profile Management
+- View and update the Shop Manager profile.
+- Save profile changes.
+
+3. Product Management
+- Add new shoe products.
+- Update product information.
+- Add product name, brand, size, category, price, and stock quantity.
+
+4. Inventory Management
+- Monitor stock levels.
+- Stock should automatically update after sales, purchases, or returns.
+- View accurate stock quantities.
+
+5. Low Stock Alert
+- Monitor products below the minimum stock level.
+- Receive an alert when stock goes below the minimum level.
+- Use the alert for timely restocking.
+
+6. Customer Management
+- Add customer information.
+- Save customer details.
+- View customer information when needed.
+
+7. Order Management
+- Create wholesale or retail orders.
+- Select customer, products, and quantities.
+- Save confirmed orders.
+
+8. Invoice Generation
+- Generate invoices for orders.
+- Make sure the invoice has the correct total.
+- Store the generated invoice.
+
+9. Manager Dashboard
+- View inventory and order information.
+- Monitor current stock and orders.
+- Receive live updates.
+
+10. Purchase Order Creation
+- Create purchase orders.
+- Select a supplier and products.
+- Stock should be updated after purchase approval.
