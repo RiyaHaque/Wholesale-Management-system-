@@ -1,0 +1,33 @@
+USER: SHOP MANAGER
+
+FEATURE: INVENTORY MANAGEMENT
+
+Purpose:
+The Inventory Management feature allows the Shop Manager to monitor and maintain accurate stock levels.
+
+Functions:
+
+1. View Inventory
+- View current stock quantity of products.
+- Monitor available shoe products.
+
+2. Automatic Stock Update After Sale
+- When a product is sold, the stock quantity should decrease automatically.
+
+3. Automatic Stock Update After Purchase
+- When new products are purchased, the stock quantity should increase automatically.
+
+4. Automatic Stock Update After Return
+- When a product is returned, the stock quantity should increase automatically.
+
+5. Accurate Stock Tracking
+- The system should always display the current stock quantity.
+
+6. Inventory Validation
+- The system should prevent invalid stock quantities.
+- Invalid quantities should show an error message.
+
+Example:
+Initial Stock: 100 units
+Sold Quantity: 50 units
+Updated Stock: 50 units

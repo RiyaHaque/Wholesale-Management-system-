@@ -1,0 +1,37 @@
+USER: SHOP MANAGER / ADMIN
+
+FEATURE: PRODUCT MANAGEMENT
+
+Purpose:
+The Product Management feature allows Admin and Shop Manager to manage shoe products in the system.
+
+Functions:
+
+1. Add Product
+- Add a new shoe product to the system.
+- Enter product name.
+- Enter brand.
+- Enter size.
+- Enter category.
+- Enter price.
+- Enter stock quantity.
+- Save the product.
+- The product should appear in the product list.
+
+2. Update Product
+- Select an existing product.
+- Edit product information.
+- Update name, brand, size, category, price, or stock quantity.
+- Save the changes.
+- Updated information should be visible immediately.
+
+3. View Product
+- View available shoe products.
+- View product details such as brand, size, category, price, and stock quantity.
+
+4. Delete Product
+- Remove an existing product from the product list.
+
+Validation:
+- The system should prevent invalid product information.
+- The system should display an error when an invalid or non-existing product is selected.
